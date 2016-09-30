@@ -1,0 +1,1085 @@
+[2016-07-26 15:09:29] start
+[2016-07-26 15:10:41] 채널 1번 20Mhz 설정
+[2016-07-26 15:10:59] 설정 완료 !
+[2016-07-26 15:10:59] 다운로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+[  4] local 192.168.10.56 port 50324 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   281 MBytes  2.35 Gbits/sec                  
+[  4]   1.00-2.00   sec   292 MBytes  2.45 Gbits/sec                  
+[  4]   2.00-3.00   sec   315 MBytes  2.64 Gbits/sec                  
+[  4]   3.00-4.00   sec   318 MBytes  2.67 Gbits/sec                  
+[  4]   4.00-5.00   sec   316 MBytes  2.66 Gbits/sec                  
+[  4]   5.00-6.00   sec   321 MBytes  2.69 Gbits/sec                  
+[  4]   6.00-7.00   sec   325 MBytes  2.73 Gbits/sec                  
+[  4]   7.00-8.00   sec   322 MBytes  2.71 Gbits/sec                  
+[  4]   8.00-9.00   sec   320 MBytes  2.68 Gbits/sec                  
+[  4]   9.00-10.00  sec   326 MBytes  2.73 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.06 GBytes  2.63 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.06 GBytes  2.63 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:11:09] 업로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+Reverse mode, remote host 192.168.10.56 is sending
+[  4] local 192.168.10.56 port 50329 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   334 MBytes  2.81 Gbits/sec                  
+[  4]   1.00-2.00   sec   323 MBytes  2.71 Gbits/sec                  
+[  4]   2.00-3.00   sec   331 MBytes  2.78 Gbits/sec                  
+[  4]   3.00-4.00   sec   326 MBytes  2.73 Gbits/sec                  
+[  4]   4.00-5.00   sec   321 MBytes  2.69 Gbits/sec                  
+[  4]   5.00-6.00   sec   332 MBytes  2.79 Gbits/sec                  
+[  4]   6.00-7.00   sec   333 MBytes  2.79 Gbits/sec                  
+[  4]   7.00-8.00   sec   336 MBytes  2.82 Gbits/sec                  
+[  4]   8.00-9.00   sec   335 MBytes  2.81 Gbits/sec                  
+[  4]   9.00-10.00  sec   333 MBytes  2.79 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.23 GBytes  2.77 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.23 GBytes  2.77 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:15:45] start
+[2016-07-26 15:16:24] 채널 1번 20Mhz 설정
+[2016-07-26 15:16:42] 설정 완료 !
+[2016-07-26 15:16:42] 다운로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+[  4] local 192.168.10.56 port 50411 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   310 MBytes  2.60 Gbits/sec                  
+[  4]   1.00-2.00   sec   308 MBytes  2.57 Gbits/sec                  
+[  4]   2.00-3.00   sec   323 MBytes  2.72 Gbits/sec                  
+[  4]   3.00-4.00   sec   332 MBytes  2.79 Gbits/sec                  
+[  4]   4.00-5.00   sec   337 MBytes  2.83 Gbits/sec                  
+[  4]   5.00-6.00   sec   337 MBytes  2.83 Gbits/sec                  
+[  4]   6.00-7.00   sec   328 MBytes  2.75 Gbits/sec                  
+[  4]   7.00-8.00   sec   326 MBytes  2.74 Gbits/sec                  
+[  4]   8.00-9.00   sec   316 MBytes  2.65 Gbits/sec                  
+[  4]   9.00-10.00  sec   321 MBytes  2.70 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.16 GBytes  2.72 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.16 GBytes  2.72 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:16:52] 업로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+Reverse mode, remote host 192.168.10.56 is sending
+[  4] local 192.168.10.56 port 50418 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   312 MBytes  2.62 Gbits/sec                  
+[  4]   1.00-2.00   sec   298 MBytes  2.50 Gbits/sec                  
+[  4]   2.00-3.00   sec   318 MBytes  2.67 Gbits/sec                  
+[  4]   3.00-4.00   sec   323 MBytes  2.71 Gbits/sec                  
+[  4]   4.00-5.00   sec   321 MBytes  2.69 Gbits/sec                  
+[  4]   5.00-6.00   sec   319 MBytes  2.68 Gbits/sec                  
+[  4]   6.00-7.00   sec   315 MBytes  2.64 Gbits/sec                  
+[  4]   7.00-8.00   sec   321 MBytes  2.69 Gbits/sec                  
+[  4]   8.00-9.00   sec   331 MBytes  2.77 Gbits/sec                  
+[  4]   9.00-10.00  sec   331 MBytes  2.78 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.12 GBytes  2.68 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.12 GBytes  2.68 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:17:03] 채널 7번 20Mhz 설정
+[2016-07-26 15:17:17] 설정 완료 !
+[2016-07-26 15:17:17] 다운로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+[  4] local 192.168.10.56 port 50440 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   324 MBytes  2.72 Gbits/sec                  
+[  4]   1.00-2.00   sec   319 MBytes  2.67 Gbits/sec                  
+[  4]   2.00-3.00   sec   331 MBytes  2.78 Gbits/sec                  
+[  4]   3.00-4.00   sec   334 MBytes  2.80 Gbits/sec                  
+[  4]   4.00-5.00   sec   334 MBytes  2.80 Gbits/sec                  
+[  4]   5.00-6.00   sec   334 MBytes  2.80 Gbits/sec                  
+[  4]   6.00-7.00   sec   329 MBytes  2.77 Gbits/sec                  
+[  4]   7.00-8.00   sec   331 MBytes  2.77 Gbits/sec                  
+[  4]   8.00-9.00   sec   335 MBytes  2.82 Gbits/sec                  
+[  4]   9.00-10.00  sec   334 MBytes  2.80 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.23 GBytes  2.77 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.23 GBytes  2.77 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:17:27] 업로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+Reverse mode, remote host 192.168.10.56 is sending
+[  4] local 192.168.10.56 port 50444 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   337 MBytes  2.83 Gbits/sec                  
+[  4]   1.00-2.00   sec   330 MBytes  2.77 Gbits/sec                  
+[  4]   2.00-3.00   sec   337 MBytes  2.82 Gbits/sec                  
+[  4]   3.00-4.00   sec   335 MBytes  2.81 Gbits/sec                  
+[  4]   4.00-5.00   sec   336 MBytes  2.82 Gbits/sec                  
+[  4]   5.00-6.00   sec   338 MBytes  2.84 Gbits/sec                  
+[  4]   6.00-7.00   sec   341 MBytes  2.86 Gbits/sec                  
+[  4]   7.00-8.00   sec   337 MBytes  2.83 Gbits/sec                  
+[  4]   8.00-9.00   sec   331 MBytes  2.78 Gbits/sec                  
+[  4]   9.00-10.00  sec   336 MBytes  2.82 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.28 GBytes  2.82 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.28 GBytes  2.82 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:17:37] 채널 13번 20Mhz 설정
+[2016-07-26 15:17:52] 설정 완료 !
+[2016-07-26 15:17:52] 다운로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+[  4] local 192.168.10.56 port 50454 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   326 MBytes  2.73 Gbits/sec                  
+[  4]   1.00-2.00   sec   316 MBytes  2.65 Gbits/sec                  
+[  4]   2.00-3.00   sec   329 MBytes  2.75 Gbits/sec                  
+[  4]   3.00-4.00   sec   332 MBytes  2.79 Gbits/sec                  
+[  4]   4.00-5.00   sec   332 MBytes  2.79 Gbits/sec                  
+[  4]   5.00-6.00   sec   332 MBytes  2.79 Gbits/sec                  
+[  4]   6.00-7.00   sec   332 MBytes  2.79 Gbits/sec                  
+[  4]   7.00-8.00   sec   318 MBytes  2.66 Gbits/sec                  
+[  4]   8.00-9.00   sec   321 MBytes  2.69 Gbits/sec                  
+[  4]   9.00-10.00  sec   321 MBytes  2.70 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.18 GBytes  2.74 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.18 GBytes  2.73 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:18:02] 업로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+Reverse mode, remote host 192.168.10.56 is sending
+[  4] local 192.168.10.56 port 50460 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   395 MBytes  3.31 Gbits/sec                  
+[  4]   1.00-2.00   sec   381 MBytes  3.20 Gbits/sec                  
+[  4]   2.00-3.00   sec   397 MBytes  3.33 Gbits/sec                  
+[  4]   3.00-4.00   sec   401 MBytes  3.37 Gbits/sec                  
+[  4]   4.00-5.00   sec   387 MBytes  3.24 Gbits/sec                  
+[  4]   5.00-6.00   sec   401 MBytes  3.36 Gbits/sec                  
+[  4]   6.00-7.00   sec   401 MBytes  3.37 Gbits/sec                  
+[  4]   7.00-8.00   sec   399 MBytes  3.35 Gbits/sec                  
+[  4]   8.00-9.00   sec   396 MBytes  3.32 Gbits/sec                  
+[  4]   9.00-10.00  sec   396 MBytes  3.32 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.86 GBytes  3.32 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.86 GBytes  3.32 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:18:12] 채널 1번 40Mhz 설정
+[2016-07-26 15:18:30] 설정 완료 !
+[2016-07-26 15:18:30] 다운로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+[  4] local 192.168.10.56 port 50469 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   331 MBytes  2.77 Gbits/sec                  
+[  4]   1.00-2.00   sec   316 MBytes  2.65 Gbits/sec                  
+[  4]   2.00-3.00   sec   331 MBytes  2.77 Gbits/sec                  
+[  4]   3.00-4.00   sec   331 MBytes  2.77 Gbits/sec                  
+[  4]   4.00-5.00   sec   326 MBytes  2.74 Gbits/sec                  
+[  4]   5.00-6.00   sec   326 MBytes  2.73 Gbits/sec                  
+[  4]   6.00-7.00   sec   328 MBytes  2.75 Gbits/sec                  
+[  4]   7.00-8.00   sec   326 MBytes  2.73 Gbits/sec                  
+[  4]   8.00-9.00   sec   322 MBytes  2.71 Gbits/sec                  
+[  4]   9.00-10.00  sec   331 MBytes  2.77 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.19 GBytes  2.74 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.19 GBytes  2.74 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:18:40] 업로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+Reverse mode, remote host 192.168.10.56 is sending
+[  4] local 192.168.10.56 port 50474 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   330 MBytes  2.77 Gbits/sec                  
+[  4]   1.00-2.00   sec   319 MBytes  2.67 Gbits/sec                  
+[  4]   2.00-3.00   sec   330 MBytes  2.77 Gbits/sec                  
+[  4]   3.00-4.00   sec   335 MBytes  2.81 Gbits/sec                  
+[  4]   4.00-5.00   sec   340 MBytes  2.85 Gbits/sec                  
+[  4]   5.00-6.00   sec   341 MBytes  2.86 Gbits/sec                  
+[  4]   6.00-7.00   sec   342 MBytes  2.87 Gbits/sec                  
+[  4]   7.00-8.00   sec   339 MBytes  2.84 Gbits/sec                  
+[  4]   8.00-9.00   sec   342 MBytes  2.87 Gbits/sec                  
+[  4]   9.00-10.00  sec   338 MBytes  2.84 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.28 GBytes  2.82 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.28 GBytes  2.82 Gbits/sec                  receiver
+
+iperf Done.
+채널 7번 40Mhz 설정
+[2016-07-26 15:19:07] 설정 완료 !
+[2016-07-26 15:19:07] 다운로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+[  4] local 192.168.10.56 port 50483 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   338 MBytes  2.83 Gbits/sec                  
+[  4]   1.00-2.00   sec   325 MBytes  2.72 Gbits/sec                  
+[  4]   2.00-3.00   sec   339 MBytes  2.84 Gbits/sec                  
+[  4]   3.00-4.00   sec   342 MBytes  2.88 Gbits/sec                  
+[  4]   4.00-5.00   sec   341 MBytes  2.87 Gbits/sec                  
+[  4]   5.00-6.00   sec   340 MBytes  2.85 Gbits/sec                  
+[  4]   6.00-7.00   sec   341 MBytes  2.86 Gbits/sec                  
+[  4]   7.00-8.00   sec   340 MBytes  2.85 Gbits/sec                  
+[  4]   8.00-9.00   sec   340 MBytes  2.86 Gbits/sec                  
+[  4]   9.00-10.00  sec   342 MBytes  2.87 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.31 GBytes  2.84 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.31 GBytes  2.84 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:19:17] 업로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+Reverse mode, remote host 192.168.10.56 is sending
+[  4] local 192.168.10.56 port 50487 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   340 MBytes  2.85 Gbits/sec                  
+[  4]   1.00-2.00   sec   331 MBytes  2.78 Gbits/sec                  
+[  4]   2.00-3.00   sec   340 MBytes  2.85 Gbits/sec                  
+[  4]   3.00-4.00   sec   338 MBytes  2.83 Gbits/sec                  
+[  4]   4.00-5.00   sec   340 MBytes  2.85 Gbits/sec                  
+[  4]   5.00-6.00   sec   339 MBytes  2.84 Gbits/sec                  
+[  4]   6.00-7.00   sec   339 MBytes  2.84 Gbits/sec                  
+[  4]   7.00-8.00   sec   338 MBytes  2.84 Gbits/sec                  
+[  4]   8.00-9.00   sec   341 MBytes  2.86 Gbits/sec                  
+[  4]   9.00-10.00  sec   339 MBytes  2.84 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.31 GBytes  2.84 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.31 GBytes  2.84 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:19:27] 채널 13번 40Mhz 설정
+[2016-07-26 15:19:44] 설정 완료 !
+[2016-07-26 15:19:44] 다운로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+[  4] local 192.168.10.56 port 50502 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   336 MBytes  2.82 Gbits/sec                  
+[  4]   1.00-2.00   sec   326 MBytes  2.72 Gbits/sec                  
+[  4]   2.00-3.00   sec   340 MBytes  2.86 Gbits/sec                  
+[  4]   3.00-4.00   sec   344 MBytes  2.88 Gbits/sec                  
+[  4]   4.00-5.00   sec   339 MBytes  2.84 Gbits/sec                  
+[  4]   5.00-6.00   sec   339 MBytes  2.84 Gbits/sec                  
+[  4]   6.00-7.00   sec   339 MBytes  2.84 Gbits/sec                  
+[  4]   7.00-8.00   sec   341 MBytes  2.86 Gbits/sec                  
+[  4]   8.00-9.00   sec   339 MBytes  2.84 Gbits/sec                  
+[  4]   9.00-10.00  sec   338 MBytes  2.83 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.30 GBytes  2.84 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.30 GBytes  2.84 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:19:54] 업로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+Reverse mode, remote host 192.168.10.56 is sending
+[  4] local 192.168.10.56 port 50506 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   335 MBytes  2.81 Gbits/sec                  
+[  4]   1.00-2.00   sec   327 MBytes  2.74 Gbits/sec                  
+[  4]   2.00-3.00   sec   341 MBytes  2.86 Gbits/sec                  
+[  4]   3.00-4.00   sec   340 MBytes  2.85 Gbits/sec                  
+[  4]   4.00-5.00   sec   340 MBytes  2.85 Gbits/sec                  
+[  4]   5.00-6.00   sec   320 MBytes  2.68 Gbits/sec                  
+[  4]   6.00-7.00   sec   326 MBytes  2.73 Gbits/sec                  
+[  4]   7.00-8.00   sec   332 MBytes  2.79 Gbits/sec                  
+[  4]   8.00-9.00   sec   324 MBytes  2.72 Gbits/sec                  
+[  4]   9.00-10.00  sec   326 MBytes  2.74 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.23 GBytes  2.78 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.23 GBytes  2.78 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:23:32] 채널 1번 20Mhz 설정
+[2016-07-26 15:23:50] 설정 완료 !
+[2016-07-26 15:23:50] 다운로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+[  4] local 192.168.10.56 port 50552 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   300 MBytes  2.51 Gbits/sec                  
+[  4]   1.00-2.00   sec   305 MBytes  2.56 Gbits/sec                  
+[  4]   2.00-3.00   sec   332 MBytes  2.78 Gbits/sec                  
+[  4]   3.00-4.00   sec   332 MBytes  2.79 Gbits/sec                  
+[  4]   4.00-5.00   sec   335 MBytes  2.81 Gbits/sec                  
+[  4]   5.00-6.00   sec   334 MBytes  2.80 Gbits/sec                  
+[  4]   6.00-7.00   sec   339 MBytes  2.84 Gbits/sec                  
+[  4]   7.00-8.00   sec   340 MBytes  2.85 Gbits/sec                  
+[  4]   8.00-9.00   sec   338 MBytes  2.83 Gbits/sec                  
+[  4]   9.00-10.00  sec   324 MBytes  2.71 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.20 GBytes  2.75 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.20 GBytes  2.75 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:24:00] 업로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+Reverse mode, remote host 192.168.10.56 is sending
+[  4] local 192.168.10.56 port 50557 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   330 MBytes  2.77 Gbits/sec                  
+[  4]   1.00-2.00   sec   309 MBytes  2.59 Gbits/sec                  
+[  4]   2.00-3.00   sec   323 MBytes  2.71 Gbits/sec                  
+[  4]   3.00-4.00   sec   334 MBytes  2.80 Gbits/sec                  
+[  4]   4.00-5.00   sec   328 MBytes  2.75 Gbits/sec                  
+[  4]   5.00-6.00   sec   316 MBytes  2.65 Gbits/sec                  
+[  4]   6.00-7.00   sec   332 MBytes  2.78 Gbits/sec                  
+[  4]   7.00-8.00   sec   325 MBytes  2.73 Gbits/sec                  
+[  4]   8.00-9.00   sec   325 MBytes  2.73 Gbits/sec                  
+[  4]   9.00-10.00  sec   323 MBytes  2.71 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.17 GBytes  2.72 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.17 GBytes  2.72 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:24:10] 채널 7번 20Mhz 설정
+[2016-07-26 15:24:25] 설정 완료 !
+[2016-07-26 15:24:25] 다운로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+[  4] local 192.168.10.56 port 50563 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   318 MBytes  2.66 Gbits/sec                  
+[  4]   1.00-2.00   sec   311 MBytes  2.61 Gbits/sec                  
+[  4]   2.00-3.00   sec   329 MBytes  2.75 Gbits/sec                  
+[  4]   3.00-4.00   sec   329 MBytes  2.77 Gbits/sec                  
+[  4]   4.00-5.00   sec   325 MBytes  2.73 Gbits/sec                  
+[  4]   5.00-6.00   sec   333 MBytes  2.79 Gbits/sec                  
+[  4]   6.00-7.00   sec   325 MBytes  2.72 Gbits/sec                  
+[  4]   7.00-8.00   sec   329 MBytes  2.76 Gbits/sec                  
+[  4]   8.00-9.00   sec   335 MBytes  2.82 Gbits/sec                  
+[  4]   9.00-10.00  sec   336 MBytes  2.81 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.19 GBytes  2.74 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.19 GBytes  2.74 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:24:35] 업로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+Reverse mode, remote host 192.168.10.56 is sending
+[  4] local 192.168.10.56 port 50570 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   323 MBytes  2.71 Gbits/sec                  
+[  4]   1.00-2.00   sec   314 MBytes  2.63 Gbits/sec                  
+[  4]   2.00-3.00   sec   320 MBytes  2.68 Gbits/sec                  
+[  4]   3.00-4.00   sec   322 MBytes  2.70 Gbits/sec                  
+[  4]   4.00-5.00   sec   334 MBytes  2.80 Gbits/sec                  
+[  4]   5.00-6.00   sec   332 MBytes  2.78 Gbits/sec                  
+[  4]   6.00-7.00   sec   330 MBytes  2.77 Gbits/sec                  
+[  4]   7.00-8.00   sec   331 MBytes  2.78 Gbits/sec                  
+[  4]   8.00-9.00   sec   328 MBytes  2.75 Gbits/sec                  
+[  4]   9.00-10.00  sec   338 MBytes  2.83 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.19 GBytes  2.74 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.19 GBytes  2.74 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:24:45] 채널 13번 20Mhz 설정
+[2016-07-26 15:25:00] 설정 완료 !
+[2016-07-26 15:25:00] 다운로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+[  4] local 192.168.10.56 port 50576 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   330 MBytes  2.76 Gbits/sec                  
+[  4]   1.00-2.00   sec   327 MBytes  2.74 Gbits/sec                  
+[  4]   2.00-3.00   sec   343 MBytes  2.87 Gbits/sec                  
+[  4]   3.00-4.00   sec   346 MBytes  2.91 Gbits/sec                  
+[  4]   4.00-5.00   sec   341 MBytes  2.87 Gbits/sec                  
+[  4]   5.00-6.00   sec   340 MBytes  2.85 Gbits/sec                  
+[  4]   6.00-7.00   sec   346 MBytes  2.91 Gbits/sec                  
+[  4]   7.00-8.00   sec   342 MBytes  2.87 Gbits/sec                  
+[  4]   8.00-9.00   sec   339 MBytes  2.84 Gbits/sec                  
+[  4]   9.00-10.00  sec   346 MBytes  2.90 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.32 GBytes  2.85 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.32 GBytes  2.85 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:25:10] 업로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+Reverse mode, remote host 192.168.10.56 is sending
+[  4] local 192.168.10.56 port 50580 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   344 MBytes  2.88 Gbits/sec                  
+[  4]   1.00-2.00   sec   324 MBytes  2.72 Gbits/sec                  
+[  4]   2.00-3.00   sec   337 MBytes  2.83 Gbits/sec                  
+[  4]   3.00-4.00   sec   342 MBytes  2.87 Gbits/sec                  
+[  4]   4.00-5.00   sec   335 MBytes  2.81 Gbits/sec                  
+[  4]   5.00-6.00   sec   336 MBytes  2.82 Gbits/sec                  
+[  4]   6.00-7.00   sec   343 MBytes  2.87 Gbits/sec                  
+[  4]   7.00-8.00   sec   338 MBytes  2.84 Gbits/sec                  
+[  4]   8.00-9.00   sec   335 MBytes  2.81 Gbits/sec                  
+[  4]   9.00-10.00  sec   344 MBytes  2.88 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.30 GBytes  2.84 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.30 GBytes  2.84 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:25:20] 채널 1번 40Mhz 설정
+[2016-07-26 15:25:38] 설정 완료 !
+[2016-07-26 15:25:38] 다운로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+[  4] local 192.168.10.56 port 50589 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   326 MBytes  2.73 Gbits/sec                  
+[  4]   1.00-2.00   sec   320 MBytes  2.69 Gbits/sec                  
+[  4]   2.00-3.00   sec   335 MBytes  2.81 Gbits/sec                  
+[  4]   3.00-4.00   sec   334 MBytes  2.79 Gbits/sec                  
+[  4]   4.00-5.00   sec   335 MBytes  2.82 Gbits/sec                  
+[  4]   5.00-6.00   sec   331 MBytes  2.77 Gbits/sec                  
+[  4]   6.00-7.00   sec   332 MBytes  2.79 Gbits/sec                  
+[  4]   7.00-8.00   sec   339 MBytes  2.84 Gbits/sec                  
+[  4]   8.00-9.00   sec   334 MBytes  2.80 Gbits/sec                  
+[  4]   9.00-10.00  sec   335 MBytes  2.81 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.24 GBytes  2.79 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.24 GBytes  2.78 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:25:48] 업로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+Reverse mode, remote host 192.168.10.56 is sending
+[  4] local 192.168.10.56 port 50595 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   345 MBytes  2.89 Gbits/sec                  
+[  4]   1.00-2.00   sec   330 MBytes  2.77 Gbits/sec                  
+[  4]   2.00-3.00   sec   337 MBytes  2.83 Gbits/sec                  
+[  4]   3.00-4.00   sec   337 MBytes  2.83 Gbits/sec                  
+[  4]   4.00-5.00   sec   338 MBytes  2.83 Gbits/sec                  
+[  4]   5.00-6.00   sec   341 MBytes  2.86 Gbits/sec                  
+[  4]   6.00-7.00   sec   339 MBytes  2.85 Gbits/sec                  
+[  4]   7.00-8.00   sec   344 MBytes  2.88 Gbits/sec                  
+[  4]   8.00-9.00   sec   339 MBytes  2.84 Gbits/sec                  
+[  4]   9.00-10.00  sec   339 MBytes  2.84 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.31 GBytes  2.84 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.31 GBytes  2.84 Gbits/sec                  receiver
+
+iperf Done.
+채널 7번 40Mhz 설정
+[2016-07-26 15:26:15] 설정 완료 !
+[2016-07-26 15:26:15] 다운로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+[  4] local 192.168.10.56 port 50601 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   324 MBytes  2.71 Gbits/sec                  
+[  4]   1.00-2.00   sec   315 MBytes  2.65 Gbits/sec                  
+[  4]   2.00-3.00   sec   329 MBytes  2.76 Gbits/sec                  
+[  4]   3.00-4.00   sec   338 MBytes  2.83 Gbits/sec                  
+[  4]   4.00-5.00   sec   328 MBytes  2.75 Gbits/sec                  
+[  4]   5.00-6.00   sec   335 MBytes  2.81 Gbits/sec                  
+[  4]   6.00-7.00   sec   340 MBytes  2.86 Gbits/sec                  
+[  4]   7.00-8.00   sec   329 MBytes  2.76 Gbits/sec                  
+[  4]   8.00-9.00   sec   336 MBytes  2.82 Gbits/sec                  
+[  4]   9.00-10.00  sec   336 MBytes  2.82 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.23 GBytes  2.78 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.23 GBytes  2.78 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:26:25] 업로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+Reverse mode, remote host 192.168.10.56 is sending
+[  4] local 192.168.10.56 port 50607 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   330 MBytes  2.77 Gbits/sec                  
+[  4]   1.00-2.00   sec   311 MBytes  2.61 Gbits/sec                  
+[  4]   2.00-3.00   sec   331 MBytes  2.78 Gbits/sec                  
+[  4]   3.00-4.00   sec   334 MBytes  2.80 Gbits/sec                  
+[  4]   4.00-5.00   sec   324 MBytes  2.72 Gbits/sec                  
+[  4]   5.00-6.00   sec   329 MBytes  2.76 Gbits/sec                  
+[  4]   6.00-7.00   sec   335 MBytes  2.81 Gbits/sec                  
+[  4]   7.00-8.00   sec   321 MBytes  2.69 Gbits/sec                  
+[  4]   8.00-9.00   sec   323 MBytes  2.71 Gbits/sec                  
+[  4]   9.00-10.00  sec   332 MBytes  2.78 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.19 GBytes  2.74 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.19 GBytes  2.74 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:26:35] 채널 13번 40Mhz 설정
+[2016-07-26 15:26:52] 설정 완료 !
+[2016-07-26 15:26:52] 다운로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+[  4] local 192.168.10.56 port 50615 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   332 MBytes  2.78 Gbits/sec                  
+[  4]   1.00-2.00   sec   325 MBytes  2.73 Gbits/sec                  
+[  4]   2.00-3.00   sec   339 MBytes  2.85 Gbits/sec                  
+[  4]   3.00-4.00   sec   339 MBytes  2.84 Gbits/sec                  
+[  4]   4.00-5.00   sec   340 MBytes  2.85 Gbits/sec                  
+[  4]   5.00-6.00   sec   344 MBytes  2.88 Gbits/sec                  
+[  4]   6.00-7.00   sec   343 MBytes  2.88 Gbits/sec                  
+[  4]   7.00-8.00   sec   331 MBytes  2.77 Gbits/sec                  
+[  4]   8.00-9.00   sec   342 MBytes  2.87 Gbits/sec                  
+[  4]   9.00-10.00  sec   340 MBytes  2.85 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.30 GBytes  2.83 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.30 GBytes  2.83 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:27:02] 업로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+Reverse mode, remote host 192.168.10.56 is sending
+[  4] local 192.168.10.56 port 50623 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   340 MBytes  2.85 Gbits/sec                  
+[  4]   1.00-2.00   sec   327 MBytes  2.75 Gbits/sec                  
+[  4]   2.00-3.00   sec   344 MBytes  2.89 Gbits/sec                  
+[  4]   3.00-4.00   sec   336 MBytes  2.82 Gbits/sec                  
+[  4]   4.00-5.00   sec   340 MBytes  2.85 Gbits/sec                  
+[  4]   5.00-6.00   sec   344 MBytes  2.89 Gbits/sec                  
+[  4]   6.00-7.00   sec   338 MBytes  2.83 Gbits/sec                  
+[  4]   7.00-8.00   sec   340 MBytes  2.85 Gbits/sec                  
+[  4]   8.00-9.00   sec   329 MBytes  2.76 Gbits/sec                  
+[  4]   9.00-10.00  sec   329 MBytes  2.76 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.29 GBytes  2.83 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.29 GBytes  2.83 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:46:40] 채널 1번 20Mhz 설정
+[2016-07-26 15:46:57] 설정 완료 !
+[2016-07-26 15:46:57] 다운로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+[  4] local 192.168.10.56 port 50797 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   310 MBytes  2.60 Gbits/sec                  
+[  4]   1.00-2.00   sec   313 MBytes  2.62 Gbits/sec                  
+[  4]   2.00-3.00   sec   307 MBytes  2.57 Gbits/sec                  
+[  4]   3.00-4.00   sec   324 MBytes  2.72 Gbits/sec                  
+[  4]   4.00-5.00   sec   329 MBytes  2.75 Gbits/sec                  
+[  4]   5.00-6.00   sec   330 MBytes  2.77 Gbits/sec                  
+[  4]   6.00-7.00   sec   328 MBytes  2.76 Gbits/sec                  
+[  4]   7.00-8.00   sec   331 MBytes  2.78 Gbits/sec                  
+[  4]   8.00-9.00   sec   329 MBytes  2.76 Gbits/sec                  
+[  4]   9.00-10.00  sec   330 MBytes  2.76 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.16 GBytes  2.71 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.16 GBytes  2.71 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:47:08] 업로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+Reverse mode, remote host 192.168.10.56 is sending
+[  4] local 192.168.10.56 port 50801 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   334 MBytes  2.80 Gbits/sec                  
+[  4]   1.00-2.00   sec   323 MBytes  2.71 Gbits/sec                  
+[  4]   2.00-3.00   sec   326 MBytes  2.74 Gbits/sec                  
+[  4]   3.00-4.00   sec   333 MBytes  2.79 Gbits/sec                  
+[  4]   4.00-5.00   sec   331 MBytes  2.78 Gbits/sec                  
+[  4]   5.00-6.00   sec   332 MBytes  2.79 Gbits/sec                  
+[  4]   6.00-7.00   sec   332 MBytes  2.78 Gbits/sec                  
+[  4]   7.00-8.00   sec   334 MBytes  2.80 Gbits/sec                  
+[  4]   8.00-9.00   sec   331 MBytes  2.78 Gbits/sec                  
+[  4]   9.00-10.00  sec   331 MBytes  2.78 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.23 GBytes  2.78 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.23 GBytes  2.78 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:47:18] 채널 7번 20Mhz 설정
+[2016-07-26 15:47:33] 설정 완료 !
+[2016-07-26 15:47:33] 다운로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+[  4] local 192.168.10.56 port 50805 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   317 MBytes  2.66 Gbits/sec                  
+[  4]   1.00-2.00   sec   322 MBytes  2.70 Gbits/sec                  
+[  4]   2.00-3.00   sec   329 MBytes  2.76 Gbits/sec                  
+[  4]   3.00-4.00   sec   330 MBytes  2.76 Gbits/sec                  
+[  4]   4.00-5.00   sec   338 MBytes  2.83 Gbits/sec                  
+[  4]   5.00-6.00   sec   325 MBytes  2.72 Gbits/sec                  
+[  4]   6.00-7.00   sec   332 MBytes  2.79 Gbits/sec                  
+[  4]   7.00-8.00   sec   333 MBytes  2.80 Gbits/sec                  
+[  4]   8.00-9.00   sec   329 MBytes  2.76 Gbits/sec                  
+[  4]   9.00-10.00  sec   336 MBytes  2.82 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.21 GBytes  2.76 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.21 GBytes  2.76 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:47:43] 업로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+Reverse mode, remote host 192.168.10.56 is sending
+[  4] local 192.168.10.56 port 50810 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   341 MBytes  2.86 Gbits/sec                  
+[  4]   1.00-2.00   sec   324 MBytes  2.72 Gbits/sec                  
+[  4]   2.00-3.00   sec   336 MBytes  2.82 Gbits/sec                  
+[  4]   3.00-4.00   sec   337 MBytes  2.83 Gbits/sec                  
+[  4]   4.00-5.00   sec   337 MBytes  2.83 Gbits/sec                  
+[  4]   5.00-6.00   sec   329 MBytes  2.76 Gbits/sec                  
+[  4]   6.00-7.00   sec   338 MBytes  2.84 Gbits/sec                  
+[  4]   7.00-8.00   sec   335 MBytes  2.81 Gbits/sec                  
+[  4]   8.00-9.00   sec   334 MBytes  2.80 Gbits/sec                  
+[  4]   9.00-10.00  sec   341 MBytes  2.86 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.27 GBytes  2.81 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.27 GBytes  2.81 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:47:53] 채널 13번 20Mhz 설정
+[2016-07-26 15:48:07] 설정 완료 !
+[2016-07-26 15:48:07] 다운로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+[  4] local 192.168.10.56 port 50820 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   325 MBytes  2.73 Gbits/sec                  
+[  4]   1.00-2.00   sec   304 MBytes  2.55 Gbits/sec                  
+[  4]   2.00-3.00   sec   319 MBytes  2.67 Gbits/sec                  
+[  4]   3.00-4.00   sec   329 MBytes  2.76 Gbits/sec                  
+[  4]   4.00-5.00   sec   314 MBytes  2.63 Gbits/sec                  
+[  4]   5.00-6.00   sec   322 MBytes  2.71 Gbits/sec                  
+[  4]   6.00-7.00   sec   326 MBytes  2.74 Gbits/sec                  
+[  4]   7.00-8.00   sec   325 MBytes  2.72 Gbits/sec                  
+[  4]   8.00-9.00   sec   322 MBytes  2.70 Gbits/sec                  
+[  4]   9.00-10.00  sec   329 MBytes  2.76 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.14 GBytes  2.70 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.14 GBytes  2.70 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:48:18] 업로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+Reverse mode, remote host 192.168.10.56 is sending
+[  4] local 192.168.10.56 port 50826 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   327 MBytes  2.74 Gbits/sec                  
+[  4]   1.00-2.00   sec   310 MBytes  2.60 Gbits/sec                  
+[  4]   2.00-3.00   sec   331 MBytes  2.78 Gbits/sec                  
+[  4]   3.00-4.00   sec   338 MBytes  2.84 Gbits/sec                  
+[  4]   4.00-5.00   sec   324 MBytes  2.72 Gbits/sec                  
+[  4]   5.00-6.00   sec   326 MBytes  2.73 Gbits/sec                  
+[  4]   6.00-7.00   sec   330 MBytes  2.77 Gbits/sec                  
+[  4]   7.00-8.00   sec   325 MBytes  2.72 Gbits/sec                  
+[  4]   8.00-9.00   sec   326 MBytes  2.74 Gbits/sec                  
+[  4]   9.00-10.00  sec   333 MBytes  2.80 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.19 GBytes  2.74 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.19 GBytes  2.74 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:48:28] 채널 1번 40Mhz 설정
+[2016-07-26 15:48:46] 설정 완료 !
+[2016-07-26 15:48:46] 다운로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+[  4] local 192.168.10.56 port 50834 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   332 MBytes  2.78 Gbits/sec                  
+[  4]   1.00-2.00   sec   325 MBytes  2.72 Gbits/sec                  
+[  4]   2.00-3.00   sec   334 MBytes  2.80 Gbits/sec                  
+[  4]   3.00-4.00   sec   335 MBytes  2.81 Gbits/sec                  
+[  4]   4.00-5.00   sec   336 MBytes  2.83 Gbits/sec                  
+[  4]   5.00-6.00   sec   336 MBytes  2.81 Gbits/sec                  
+[  4]   6.00-7.00   sec   335 MBytes  2.82 Gbits/sec                  
+[  4]   7.00-8.00   sec   337 MBytes  2.83 Gbits/sec                  
+[  4]   8.00-9.00   sec   334 MBytes  2.80 Gbits/sec                  
+[  4]   9.00-10.00  sec   334 MBytes  2.80 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.26 GBytes  2.80 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.26 GBytes  2.80 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:48:56] 업로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+Reverse mode, remote host 192.168.10.56 is sending
+[  4] local 192.168.10.56 port 50841 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   344 MBytes  2.88 Gbits/sec                  
+[  4]   1.00-2.00   sec   326 MBytes  2.73 Gbits/sec                  
+[  4]   2.00-3.00   sec   340 MBytes  2.85 Gbits/sec                  
+[  4]   3.00-4.00   sec   338 MBytes  2.84 Gbits/sec                  
+[  4]   4.00-5.00   sec   331 MBytes  2.78 Gbits/sec                  
+[  4]   5.00-6.00   sec   337 MBytes  2.82 Gbits/sec                  
+[  4]   6.00-7.00   sec   339 MBytes  2.85 Gbits/sec                  
+[  4]   7.00-8.00   sec   344 MBytes  2.89 Gbits/sec                  
+[  4]   8.00-9.00   sec   338 MBytes  2.84 Gbits/sec                  
+[  4]   9.00-10.00  sec   336 MBytes  2.82 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.30 GBytes  2.83 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.30 GBytes  2.83 Gbits/sec                  receiver
+
+iperf Done.
+채널 7번 40Mhz 설정
+[2016-07-26 15:49:23] 설정 완료 !
+[2016-07-26 15:49:23] 다운로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+[  4] local 192.168.10.56 port 50847 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   334 MBytes  2.80 Gbits/sec                  
+[  4]   1.00-2.00   sec   319 MBytes  2.67 Gbits/sec                  
+[  4]   2.00-3.00   sec   337 MBytes  2.83 Gbits/sec                  
+[  4]   3.00-4.00   sec   345 MBytes  2.90 Gbits/sec                  
+[  4]   4.00-5.00   sec   339 MBytes  2.84 Gbits/sec                  
+[  4]   5.00-6.00   sec   338 MBytes  2.84 Gbits/sec                  
+[  4]   6.00-7.00   sec   345 MBytes  2.89 Gbits/sec                  
+[  4]   7.00-8.00   sec   334 MBytes  2.80 Gbits/sec                  
+[  4]   8.00-9.00   sec   337 MBytes  2.82 Gbits/sec                  
+[  4]   9.00-10.00  sec   344 MBytes  2.88 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.29 GBytes  2.83 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.29 GBytes  2.83 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:49:33] 업로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+Reverse mode, remote host 192.168.10.56 is sending
+[  4] local 192.168.10.56 port 50855 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   337 MBytes  2.83 Gbits/sec                  
+[  4]   1.00-2.00   sec   326 MBytes  2.73 Gbits/sec                  
+[  4]   2.00-3.00   sec   341 MBytes  2.86 Gbits/sec                  
+[  4]   3.00-4.00   sec   341 MBytes  2.86 Gbits/sec                  
+[  4]   4.00-5.00   sec   337 MBytes  2.83 Gbits/sec                  
+[  4]   5.00-6.00   sec   339 MBytes  2.84 Gbits/sec                  
+[  4]   6.00-7.00   sec   344 MBytes  2.89 Gbits/sec                  
+[  4]   7.00-8.00   sec   337 MBytes  2.83 Gbits/sec                  
+[  4]   8.00-9.00   sec   337 MBytes  2.83 Gbits/sec                  
+[  4]   9.00-10.00  sec   345 MBytes  2.90 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.31 GBytes  2.84 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.31 GBytes  2.84 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:49:43] 채널 13번 40Mhz 설정
+[2016-07-26 15:50:00] 설정 완료 !
+[2016-07-26 15:50:00] 다운로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+[  4] local 192.168.10.56 port 50863 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   314 MBytes  2.63 Gbits/sec                  
+[  4]   1.00-2.00   sec   313 MBytes  2.63 Gbits/sec                  
+[  4]   2.00-3.00   sec   335 MBytes  2.80 Gbits/sec                  
+[  4]   3.00-4.00   sec   326 MBytes  2.74 Gbits/sec                  
+[  4]   4.00-5.00   sec   322 MBytes  2.70 Gbits/sec                  
+[  4]   5.00-6.00   sec   331 MBytes  2.78 Gbits/sec                  
+[  4]   6.00-7.00   sec   325 MBytes  2.73 Gbits/sec                  
+[  4]   7.00-8.00   sec   325 MBytes  2.73 Gbits/sec                  
+[  4]   8.00-9.00   sec   332 MBytes  2.79 Gbits/sec                  
+[  4]   9.00-10.00  sec   328 MBytes  2.75 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.18 GBytes  2.73 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.18 GBytes  2.73 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:50:10] 업로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+Reverse mode, remote host 192.168.10.56 is sending
+[  4] local 192.168.10.56 port 50867 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   328 MBytes  2.75 Gbits/sec                  
+[  4]   1.00-2.00   sec   321 MBytes  2.69 Gbits/sec                  
+[  4]   2.00-3.00   sec   328 MBytes  2.75 Gbits/sec                  
+[  4]   3.00-4.00   sec   330 MBytes  2.77 Gbits/sec                  
+[  4]   4.00-5.00   sec   337 MBytes  2.83 Gbits/sec                  
+[  4]   5.00-6.00   sec   334 MBytes  2.80 Gbits/sec                  
+[  4]   6.00-7.00   sec   328 MBytes  2.76 Gbits/sec                  
+[  4]   7.00-8.00   sec   330 MBytes  2.77 Gbits/sec                  
+[  4]   8.00-9.00   sec   337 MBytes  2.83 Gbits/sec                  
+[  4]   9.00-10.00  sec   332 MBytes  2.79 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.23 GBytes  2.77 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.23 GBytes  2.77 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:52:22] start
+[2016-07-26 15:53:08] 채널 1번 20Mhz 설정
+[2016-07-26 15:53:26] 설정 완료 !
+[2016-07-26 15:53:27] 다운로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+[  4] local 192.168.10.56 port 50963 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   305 MBytes  2.56 Gbits/sec                  
+[  4]   1.00-2.00   sec   319 MBytes  2.67 Gbits/sec                  
+[  4]   2.00-3.00   sec   328 MBytes  2.75 Gbits/sec                  
+[  4]   3.00-4.00   sec   329 MBytes  2.76 Gbits/sec                  
+[  4]   4.00-5.00   sec   343 MBytes  2.87 Gbits/sec                  
+[  4]   5.00-6.00   sec   336 MBytes  2.83 Gbits/sec                  
+[  4]   6.00-7.00   sec   335 MBytes  2.82 Gbits/sec                  
+[  4]   7.00-8.00   sec   343 MBytes  2.87 Gbits/sec                  
+[  4]   8.00-9.00   sec   338 MBytes  2.83 Gbits/sec                  
+[  4]   9.00-10.00  sec   337 MBytes  2.83 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.23 GBytes  2.78 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.23 GBytes  2.78 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:53:37] 업로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+Reverse mode, remote host 192.168.10.56 is sending
+[  4] local 192.168.10.56 port 50968 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   338 MBytes  2.84 Gbits/sec                  
+[  4]   1.00-2.00   sec   324 MBytes  2.72 Gbits/sec                  
+[  4]   2.00-3.00   sec   334 MBytes  2.80 Gbits/sec                  
+[  4]   3.00-4.00   sec   335 MBytes  2.81 Gbits/sec                  
+[  4]   4.00-5.00   sec   343 MBytes  2.88 Gbits/sec                  
+[  4]   5.00-6.00   sec   335 MBytes  2.81 Gbits/sec                  
+[  4]   6.00-7.00   sec   317 MBytes  2.66 Gbits/sec                  
+[  4]   7.00-8.00   sec   315 MBytes  2.64 Gbits/sec                  
+[  4]   8.00-9.00   sec   305 MBytes  2.56 Gbits/sec                  
+[  4]   9.00-10.00  sec   320 MBytes  2.69 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.19 GBytes  2.74 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.19 GBytes  2.74 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:53:47] 채널 7번 20Mhz 설정
+[2016-07-26 15:54:02] 설정 완료 !
+[2016-07-26 15:54:03] 다운로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+[  4] local 192.168.10.56 port 50979 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   325 MBytes  2.72 Gbits/sec                  
+[  4]   1.00-2.00   sec   310 MBytes  2.60 Gbits/sec                  
+[  4]   2.00-3.00   sec   321 MBytes  2.70 Gbits/sec                  
+[  4]   3.00-4.00   sec   321 MBytes  2.69 Gbits/sec                  
+[  4]   4.00-5.00   sec   326 MBytes  2.74 Gbits/sec                  
+[  4]   5.00-6.00   sec   324 MBytes  2.72 Gbits/sec                  
+[  4]   6.00-7.00   sec   321 MBytes  2.69 Gbits/sec                  
+[  4]   7.00-8.00   sec   330 MBytes  2.77 Gbits/sec                  
+[  4]   8.00-9.00   sec   325 MBytes  2.73 Gbits/sec                  
+[  4]   9.00-10.00  sec   322 MBytes  2.70 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.15 GBytes  2.71 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.15 GBytes  2.70 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:54:13] 업로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+Reverse mode, remote host 192.168.10.56 is sending
+[  4] local 192.168.10.56 port 50984 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   334 MBytes  2.80 Gbits/sec                  
+[  4]   1.00-2.00   sec   310 MBytes  2.60 Gbits/sec                  
+[  4]   2.00-3.00   sec   322 MBytes  2.70 Gbits/sec                  
+[  4]   3.00-4.00   sec   333 MBytes  2.79 Gbits/sec                  
+[  4]   4.00-5.00   sec   326 MBytes  2.73 Gbits/sec                  
+[  4]   5.00-6.00   sec   327 MBytes  2.74 Gbits/sec                  
+[  4]   6.00-7.00   sec   330 MBytes  2.77 Gbits/sec                  
+[  4]   7.00-8.00   sec   320 MBytes  2.68 Gbits/sec                  
+[  4]   8.00-9.00   sec   330 MBytes  2.77 Gbits/sec                  
+[  4]   9.00-10.00  sec   331 MBytes  2.78 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.19 GBytes  2.74 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.19 GBytes  2.74 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:54:23] 채널 13번 20Mhz 설정
+[2016-07-26 15:54:38] 설정 완료 !
+[2016-07-26 15:54:39] 다운로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+[  4] local 192.168.10.56 port 50996 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   302 MBytes  2.53 Gbits/sec                  
+[  4]   1.00-2.00   sec   302 MBytes  2.54 Gbits/sec                  
+[  4]   2.00-3.00   sec   327 MBytes  2.74 Gbits/sec                  
+[  4]   3.00-4.00   sec   335 MBytes  2.81 Gbits/sec                  
+[  4]   4.00-5.00   sec   329 MBytes  2.75 Gbits/sec                  
+[  4]   5.00-6.00   sec   328 MBytes  2.76 Gbits/sec                  
+[  4]   6.00-7.00   sec   332 MBytes  2.78 Gbits/sec                  
+[  4]   7.00-8.00   sec   338 MBytes  2.84 Gbits/sec                  
+[  4]   8.00-9.00   sec   340 MBytes  2.84 Gbits/sec                  
+[  4]   9.00-10.00  sec   340 MBytes  2.86 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.20 GBytes  2.75 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.20 GBytes  2.75 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:54:49] 업로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+Reverse mode, remote host 192.168.10.56 is sending
+[  4] local 192.168.10.56 port 51002 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   340 MBytes  2.85 Gbits/sec                  
+[  4]   1.00-2.00   sec   319 MBytes  2.68 Gbits/sec                  
+[  4]   2.00-3.00   sec   339 MBytes  2.84 Gbits/sec                  
+[  4]   3.00-4.00   sec   340 MBytes  2.85 Gbits/sec                  
+[  4]   4.00-5.00   sec   336 MBytes  2.82 Gbits/sec                  
+[  4]   5.00-6.00   sec   334 MBytes  2.81 Gbits/sec                  
+[  4]   6.00-7.00   sec   340 MBytes  2.85 Gbits/sec                  
+[  4]   7.00-8.00   sec   339 MBytes  2.84 Gbits/sec                  
+[  4]   8.00-9.00   sec   328 MBytes  2.75 Gbits/sec                  
+[  4]   9.00-10.00  sec   344 MBytes  2.88 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.28 GBytes  2.82 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.28 GBytes  2.82 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:54:59] 채널 1번 40Mhz 설정
+[2016-07-26 15:55:17] 설정 완료 !
+[2016-07-26 15:55:18] 다운로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+[  4] local 192.168.10.56 port 51009 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.01   sec   335 MBytes  2.79 Gbits/sec                  
+[  4]   1.01-2.00   sec   330 MBytes  2.78 Gbits/sec                  
+[  4]   2.00-3.00   sec   338 MBytes  2.83 Gbits/sec                  
+[  4]   3.00-4.00   sec   346 MBytes  2.90 Gbits/sec                  
+[  4]   4.00-5.00   sec   342 MBytes  2.87 Gbits/sec                  
+[  4]   5.00-6.00   sec   338 MBytes  2.84 Gbits/sec                  
+[  4]   6.00-7.00   sec   348 MBytes  2.91 Gbits/sec                  
+[  4]   7.00-8.00   sec   339 MBytes  2.85 Gbits/sec                  
+[  4]   8.00-9.00   sec   342 MBytes  2.87 Gbits/sec                  
+[  4]   9.00-10.00  sec   345 MBytes  2.90 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.32 GBytes  2.85 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.32 GBytes  2.85 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:55:28] 업로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+Reverse mode, remote host 192.168.10.56 is sending
+[  4] local 192.168.10.56 port 51017 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   339 MBytes  2.85 Gbits/sec                  
+[  4]   1.00-2.00   sec   329 MBytes  2.76 Gbits/sec                  
+[  4]   2.00-3.00   sec   337 MBytes  2.83 Gbits/sec                  
+[  4]   3.00-4.00   sec   346 MBytes  2.90 Gbits/sec                  
+[  4]   4.00-5.00   sec   334 MBytes  2.81 Gbits/sec                  
+[  4]   5.00-6.00   sec   342 MBytes  2.87 Gbits/sec                  
+[  4]   6.00-7.00   sec   346 MBytes  2.90 Gbits/sec                  
+[  4]   7.00-8.00   sec   338 MBytes  2.84 Gbits/sec                  
+[  4]   8.00-9.00   sec   338 MBytes  2.84 Gbits/sec                  
+[  4]   9.00-10.00  sec   345 MBytes  2.90 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.32 GBytes  2.85 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.32 GBytes  2.85 Gbits/sec                  receiver
+
+iperf Done.
+채널 7번 40Mhz 설정
+[2016-07-26 15:55:55] 설정 완료 !
+[2016-07-26 15:55:56] 다운로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+[  4] local 192.168.10.56 port 51025 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   332 MBytes  2.78 Gbits/sec                  
+[  4]   1.00-2.00   sec   321 MBytes  2.69 Gbits/sec                  
+[  4]   2.00-3.00   sec   337 MBytes  2.82 Gbits/sec                  
+[  4]   3.00-4.00   sec   330 MBytes  2.76 Gbits/sec                  
+[  4]   4.00-5.00   sec   334 MBytes  2.81 Gbits/sec                  
+[  4]   5.00-6.00   sec   331 MBytes  2.77 Gbits/sec                  
+[  4]   6.00-7.00   sec   329 MBytes  2.76 Gbits/sec                  
+[  4]   7.00-8.00   sec   334 MBytes  2.80 Gbits/sec                  
+[  4]   8.00-9.00   sec   330 MBytes  2.77 Gbits/sec                  
+[  4]   9.00-10.00  sec   326 MBytes  2.74 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.23 GBytes  2.77 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.23 GBytes  2.77 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:56:06] 업로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+Reverse mode, remote host 192.168.10.56 is sending
+[  4] local 192.168.10.56 port 51032 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   331 MBytes  2.78 Gbits/sec                  
+[  4]   1.00-2.00   sec   308 MBytes  2.59 Gbits/sec                  
+[  4]   2.00-3.00   sec   325 MBytes  2.73 Gbits/sec                  
+[  4]   3.00-4.00   sec   330 MBytes  2.77 Gbits/sec                  
+[  4]   4.00-5.00   sec   322 MBytes  2.70 Gbits/sec                  
+[  4]   5.00-6.00   sec   322 MBytes  2.70 Gbits/sec                  
+[  4]   6.00-7.00   sec   334 MBytes  2.80 Gbits/sec                  
+[  4]   7.00-8.00   sec   326 MBytes  2.74 Gbits/sec                  
+[  4]   8.00-9.00   sec   320 MBytes  2.68 Gbits/sec                  
+[  4]   9.00-10.00  sec   331 MBytes  2.77 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.17 GBytes  2.73 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.17 GBytes  2.73 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:56:16] 채널 13번 40Mhz 설정
+[2016-07-26 15:56:33] 설정 완료 !
+[2016-07-26 15:56:34] 다운로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+[  4] local 192.168.10.56 port 51042 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   321 MBytes  2.69 Gbits/sec                  
+[  4]   1.00-2.00   sec   304 MBytes  2.55 Gbits/sec                  
+[  4]   2.00-3.00   sec   315 MBytes  2.64 Gbits/sec                  
+[  4]   3.00-4.00   sec   325 MBytes  2.73 Gbits/sec                  
+[  4]   4.00-5.00   sec   322 MBytes  2.71 Gbits/sec                  
+[  4]   5.00-6.00   sec   326 MBytes  2.74 Gbits/sec                  
+[  4]   6.00-7.00   sec   332 MBytes  2.78 Gbits/sec                  
+[  4]   7.00-8.00   sec   330 MBytes  2.77 Gbits/sec                  
+[  4]   8.00-9.00   sec   328 MBytes  2.75 Gbits/sec                  
+[  4]   9.00-10.00  sec   329 MBytes  2.76 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.16 GBytes  2.71 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.16 GBytes  2.71 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 15:56:44] 업로드 속도측정중..
+Connecting to host 192.168.10.56, port 5201
+Reverse mode, remote host 192.168.10.56 is sending
+[  4] local 192.168.10.56 port 51048 connected to 192.168.10.56 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   347 MBytes  2.91 Gbits/sec                  
+[  4]   1.00-2.00   sec   329 MBytes  2.76 Gbits/sec                  
+[  4]   2.00-3.00   sec   339 MBytes  2.84 Gbits/sec                  
+[  4]   3.00-4.00   sec   341 MBytes  2.86 Gbits/sec                  
+[  4]   4.00-5.00   sec   339 MBytes  2.84 Gbits/sec                  
+[  4]   5.00-6.00   sec   339 MBytes  2.84 Gbits/sec                  
+[  4]   6.00-7.00   sec   344 MBytes  2.88 Gbits/sec                  
+[  4]   7.00-8.00   sec   338 MBytes  2.84 Gbits/sec                  
+[  4]   8.00-9.00   sec   340 MBytes  2.85 Gbits/sec                  
+[  4]   9.00-10.00  sec   342 MBytes  2.87 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  3.32 GBytes  2.85 Gbits/sec                  sender
+[  4]   0.00-10.00  sec  3.32 GBytes  2.85 Gbits/sec                  receiver
+
+iperf Done.
+[2016-07-26 16:17:47] start
+[2016-07-26 16:22:53] start
+[2016-07-26 17:35:26] start
+[2016-07-27 17:01:51] start
+[2016-07-27 17:03:29] start
+[2016-08-01 12:19:53] start
+[2016-08-01 12:20:00] start
