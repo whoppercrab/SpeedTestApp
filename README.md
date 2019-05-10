@@ -1,3 +1,3 @@
 # Test_Project
-첫번째 테스트
-이게바로 첫번째 테스트 파일인가
+MT7620 Wireless AP
+2.4Ghz speel test app
